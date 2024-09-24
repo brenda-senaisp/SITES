@@ -1,0 +1,63 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.comeco{
+    background-color: #648769;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+}
+.livroIMG{
+    width: 300px;
+    height: 190px;
+}
+.sub{
+    font-size: 35px;
+    color: #2A5B31;
+    margin: 90px;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 70px;
+}
+.info1{
+    width: 250px;
+    height: auto;
+}
+.bloco{
+    width: 150px;
+    height: 150px;
+}
+.info2{
+    width: 250px;
+    height: auto;
+}
+.caixa{
+    width: 150px;
+    height: 150px;  
+}
+.info3{
+    width: 250px;
+    height: auto;
+}
+.livro{
+    width: 150px;
+    height: 150px;
+}
+footer{
+    background-color: #648769;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    color: white;
+}
+
+
+
