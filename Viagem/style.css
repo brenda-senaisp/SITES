@@ -1,0 +1,50 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+header{
+    background-color: #1D0F6E;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0px 95px;
+}
+.fundoo{
+    height: 900px;
+    background-image: url(img/aviao.png);
+    background-repeat: no-repeat;
+    color: white;
+    display:flex ;
+    justify-content: center;
+    background-size: contain;
+    font-size: 60px;
+}
+.titulo{
+  width: 900px;
+  text-align: center;
+  letter-spacing: 4px;
+  line-height: 120px;
+}
+.sub{
+    font-size: 48px;
+    text-align: center;
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    color: #1D0F6E;
+}
+.subb{
+    letter-spacing: 4px;
+}
+.viagens{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.p{
+    width: 300px;
+    height: 450px;
+    border: 1px black;
+}
