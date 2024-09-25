@@ -46,19 +46,91 @@ a{
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
-    margin: 0 20px ;
 }
-img{
-    width: 110px;
-    height: 110px;
+.receitas2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: 19px;
+}
+.img{
+    width: 90px;
+    height: 90px;
+    padding-top: 24px;
+    margin-right: 15px;
+    align-items: center;
 }
 .rec1{
-    display:flex ;
+    display: flex;
     flex-direction: row;
 }
-.infor{
-    display: flex;
-    flex-direction: column;
+.b{
     font-size: 25px;
-    margin: 0 0 0 0px;
+    margin-bottom: -10px;
+}
+.in{
+    color: #AFA7A7;
+}
+.rec2{
+    display: flex;
+    flex-direction: row; 
+}
+.p{
+    font-size: 25px;
+    margin-bottom: -10px;
+}
+.rec3{
+    display: flex;
+    flex-direction: row;
+}
+.f{
+    font-size: 25px;
+    margin-bottom: -10px;  
+}
+.rec4{
+    display: flex;
+    flex-direction: row;
+}
+.linha{
+    background-color: #ECA457;
+    width: auto;
+    height: 1px;
+    margin-top: 60px;
+}
+.blog1{
+  font-size: 50px;
+  color: #ECA457;
+  text-align: center;
+  padding-top: 60px;
+}
+.blog{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 160px;
+}
+.chef{
+    width: 150px;
+    height: 150px;
+}
+.info{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+footer{
+    background-color: #ECA457;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 160px;
+}
+.pp{
+    color: #AFA7A7;
+    font-size: 24px;
+}
+.n{
+    margin-bottom: -15px;
+    font-size: 28px;
 }
